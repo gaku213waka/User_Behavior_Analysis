@@ -173,24 +173,18 @@ User_Behavior_Analysis
 │   └── User_Behavior_Analysis.ipynb
 │
 ├── sql/
-│   ├── source.sql
-│   ├── device.sql
-│   ├── browser.sql
-│   ├── landing_page.sql
-│   └── exit_page.sql
-│
-├── data/
-│   ├── source.csv
-│   ├── device.csv
-│   ├── browser.csv
-│   └── ...
+│   ├── 01_source.sql
+│   ├── 02_device.sql
+│   ├── 03_browser.sql
+│   ├── 04_landing_page.sql
+│   └── 05_exit_page.sql
 │
 ├── images/
-│   ├── dashboard.png
-│   ├── source_analysis.png
-│   ├── device_analysis.png
-│   ├── landing_page.png
-│   └── exit_page.png
+│   ├── 01_source.png
+│   ├── 02_device.png
+│   ├── 03_browser.png
+│   ├── 04_landing_page.png
+│   └── 05_exit_page.png
 │
 └── README.md
 ```
