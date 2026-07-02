@@ -195,3 +195,4 @@ GitHub Portfolio
 
 データアナリストを目指して学習中。
 Python・SQL・Tableauを用いたデータ分析ポートフォリオを公開しています。
+
