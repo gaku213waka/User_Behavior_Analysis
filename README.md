@@ -37,7 +37,9 @@ Google BigQuery Public Dataset
 ### ① 流入元分析
 
 「流入元によって購入者数に違いがある」という仮説を立て、分析を行いました。
+
 (direct)・google・youtube.comの使用率は合計で91.5%であり、多く購入している流入元は(direct)・google・dfaの3つで96.88%を占めていることが分かりました。
+
 また、youtube.comが流入元のユーザーは購入数がとても少ないことも確認できました。
 
 ![流入元分析](images/01_source.png)
